@@ -7,7 +7,6 @@ class Program
         int balance = 0;
         int choice;
 
-        // First deposit (must be >= 100)
         while (balance < 100)
         {
             int firstDeposit;
